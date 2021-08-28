@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,EAAE,CAAA;EACE,UAAU,EAAC,IAAI;CAClB;;AACD,AAAA,CAAC,CAAA;EACG,eAAe,EAAC,IAAI;CACvB;;AACD,AAAA,CAAC,CAAA;EACG,UAAU,EAAC,UAAU;CACxB",
+    "sources": [
+        "../../../../Applications/MAMP/htdocs/wp-content/themes/数がく部のコーディングデータ/sass/Foundation/base.scss"
+    ],
+    "names": [],
+    "file": "base.css"
+}

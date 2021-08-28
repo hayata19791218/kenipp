@@ -1,0 +1,20 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "HeaderProduct": {
+    "description": "Auto imported from components/HeaderProduct.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "MainProduct": {
+    "description": "Auto imported from components/MainProduct.vue"
+  }
+}

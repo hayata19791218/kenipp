@@ -1,0 +1,25 @@
+.c-search {
+  width: 30%;
+  margin: 30px auto 0;
+  padding: 20px;
+  border: 1px solid #f6f6f6;
+}
+
+@media screen and (max-width: 767px) {
+  .c-search {
+    width: 70%;
+  }
+}
+
+.c-search__title {
+  color: #ccc;
+  font-size: 14px;
+  text-align: center;
+}
+
+.c-search__content {
+  color: #5e6c77;
+  font-size: 20px;
+  margin-top: 20px;
+}
+/*# sourceMappingURL=c-search.css.map */

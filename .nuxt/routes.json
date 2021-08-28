@@ -1,0 +1,44 @@
+[
+  {
+    "name": "app-net",
+    "path": "/app-net",
+    "component": "/Users/hayatakyouhei/kneipp/pages/app-net.vue",
+    "chunkName": "pages/app-net",
+    "_name": "_652116ca"
+  },
+  {
+    "name": "app-think",
+    "path": "/app-think",
+    "component": "/Users/hayatakyouhei/kneipp/pages/app-think.vue",
+    "chunkName": "pages/app-think",
+    "_name": "_07397bf0"
+  },
+  {
+    "name": "cording",
+    "path": "/cording",
+    "component": "/Users/hayatakyouhei/kneipp/pages/cording.vue",
+    "chunkName": "pages/cording",
+    "_name": "_fa03a2a4"
+  },
+  {
+    "name": "layout",
+    "path": "/layout",
+    "component": "/Users/hayatakyouhei/kneipp/pages/layout.vue",
+    "chunkName": "pages/layout",
+    "_name": "_0367ebf0"
+  },
+  {
+    "name": "product-sult",
+    "path": "/product-sult",
+    "component": "/Users/hayatakyouhei/kneipp/pages/product-sult.vue",
+    "chunkName": "pages/product-sult",
+    "_name": "_568dd664"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/hayatakyouhei/kneipp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e59dbd08"
+  }
+]
